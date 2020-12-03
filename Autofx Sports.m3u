@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1, FOX SPORTS 1
+https://espare.tk/live/1016.m3u8?token=PX54htgoiFC9gqPLrvpARA&expires=1607044095
+#EXTINF:-1, FOX SPORTS 2
+https://espare.tk/live/1015.m3u8?token=NrJZ6E-_RqECkxZz0ugVFA&expires=1607044128
+#EXTINF:-1, FOX SPORTS 3
+https://espare.tk/live/1014.m3u8?token=KbJgf42XtrnJlQuzmh64eQ&expires=1607044404
+#EXTINF:-1, FOX PREMIUM
+https://espare.tk/live/1062.m3u8?token=FQ-zXoExdbGo0d_3OmvtRQ&expires=1607044710
+#EXTINF:-1, ESPN 1
+https://espare.tk/live/1013.m3u8?token=1t0Rgi14Hft9ynE3NnIUkA&expires=1607044373
+#EXTINF:-1, ESPN 2
+https://espare.tk/live/1012.m3u8?token=idUjjBDJ7wV5SN88rO4WMA&expires=1607044352
+#EXTINF:-1, ESPN 3
+https://espare.tk/live/1011.m3u8?token=lS6rTv9AxynCbZa8IUG1xQ&expires=1607043990
+#EXTINF:-1, ESPN +
+https://espare.tk/live/1066.m3u8?token=3LxX1PqRs7x-yEP9di-oPQ&expires=1607044680
+#EXTINF:-1, ESPN 1 MX
+https://espare.tk/live/1063.m3u8?token=cQiaOUTW5NTlG7yEugjglw&expires=1607044528
+#EXTINF:-1, ESPN 2 MX
+https://espare.tk/live/1064.m3u8?token=p0cXEuyzMTdx86VzPOzsrw&expires=1607044583
+#EXTINF:-1, ESPN 3 MX
+https://espare.tk/live/1065.m3u8?token=GgpRj9YkRffGpCBFyedw7Q&expires=1607044616
+#EXTINF:-1, TUDN SPORTS
+https://espare.tk/live/1054.m3u8?token=1u64dIkV1AEoCEZSBAg41A&expires=1607044746
+#EXTINF:-1, TNT SPORTS
+https://espare.tk/live/1056.m3u8?token=qIpgPc_Bb4X6Kz5chIRGkQ&expires=1607044783
+
